@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- **学生**：[Niki / Steve]
+- **学生**：Niki
 - **日期**：YYYY-MM-DD
 - **时长**：XX分钟
 - **主要主题**：
@@ -137,7 +137,7 @@
 
 学习结束后，请确认以下更新：
 
-- [ ] 更新 `/progress/english-study-tracker.md` 中的模块进度
+- [ ] 更新 `/progress/niki/english-study-tracker.md` 中的模块进度
 - [ ] 添加新掌握主题到已掌握列表
 - [ ] 添加/更新知识盲点
 - [ ] 更新艾宾浩斯复习计划
