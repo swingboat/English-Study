@@ -3,7 +3,7 @@
 **学生**：Niki  
 **目标**：2027年安徽高考英语  
 **开始日期**：2026年2月23日  
-**最后更新**：2026年5月17日
+**最后更新**：2026年5月18日
 
 ---
 
@@ -11,13 +11,13 @@
 
 | 模块 | 进度 | 状态 |
 |------|------|------|
-| 词汇 | 27/3500 | 🟡 已启动 |
+| 词汇 | 35/3500 | 🟡 已启动 |
 | 语法 | 1/15 专题 | 🟡 非谓语动词分词作定语/状语复习稳定 |
-| 阅读理解 | 0/100 篇 | ⬜ 未开始 |
+| 阅读理解 | 0/100 篇 + 13道七选五微练 | 🟡 七选五衔接线索入门稳定 |
 | 完形填空 | 0/50 篇 + 3道语境题 | 🟡 完形语境搭配启动 |
 | 语法填空 | 4/50 篇 + 4道非谓语快检 | 🟡 非谓语语境填空、改写与结构判断稳定 |
 | 读后续写 | 0/30 篇 | ⬜ 未开始 |
-| 应用文写作 | 0/20 篇 + 6句申请信骨架成段输出 | 🟡 申请信句式推进中 |
+| 应用文写作 | 0/20 篇 + 6句申请信骨架成段输出 + 1次到期复习 | 🟡 申请信句式复习稳定 |
 | 听力 | 0/50 套 | ⬜ 未开始 |
 
 ---
@@ -29,7 +29,7 @@
 #### 高考核心3500词
 | 阶段 | 词汇量 | 进度 | 状态 |
 |------|--------|------|------|
-| 第一阶段（高频1000词） | 27/1000 | 2.7% | 🟡 |
+| 第一阶段（高频1000词） | 35/1000 | 3.5% | 🟡 |
 | 第二阶段（次高频1000词） | 0/1000 | 0% | ⬜ |
 | 第三阶段（中频1000词） | 0/1000 | 0% | ⬜ |
 | 第四阶段（其他500词） | 0/500 | 0% | ⬜ |
@@ -38,7 +38,7 @@
 - [ ] 词根词缀系统学习
 - [ ] 熟词生义整理
 - [ ] 易混词辨析
-- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply）
+- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck）
 
 ### 二、语法专题
 
@@ -68,7 +68,7 @@
 | 推理判断题 | 0 | - | ⬜ |
 | 主旨大意题 | 0 | - | ⬜ |
 | 词义猜测题 | 0 | - | ⬜ |
-| 七选五 | 0 | - | ⬜ |
+| 七选五 | 13道微练 + 1题技巧验证 | 100% | 🟡 |
 
 ### 四、完形填空
 
@@ -104,7 +104,7 @@
 | 建议信 | 0 | ⬜ |
 | 邀请信 | 0 | ⬜ |
 | 感谢信 | 0 | ⬜ |
-| 申请信 | 6句骨架成段输出 | 🟡 |
+| 申请信 | 6句骨架成段输出 + 到期复习100% | 🟡 |
 | 通知/公告 | 0 | ⬜ |
 
 ### 七、听力
@@ -140,6 +140,10 @@
 | 申请信优势句：`have a good command of English` + `which enables me to...` | 应用文写作 | 2026-05-17 | 中高 |
 | 申请信贡献句：`do a good job as a volunteer` | 应用文写作 | 2026-05-17 | 中高 |
 | 申请信收尾句：`I would appreciate it if...` | 应用文写作 | 2026-05-17 | 中高 |
+| `written` vs `wrote`：过去分词后置定语与谓语区分 | 语法 | 2026-05-18 | 高 |
+| 申请信第1次到期复习：优势句、贡献句、收尾句 | 应用文写作 | 2026-05-18 | 高 |
+| 七选五：段首空、空后线索与同义替换判断 | 阅读/七选五 | 2026-05-18 | 中高 |
+| 七选五：代词指代、逻辑衔接与绝对化干扰项排除 | 阅读/七选五 | 2026-05-18 | 中高 |
 
 ---
 
@@ -159,7 +163,8 @@
 | `be qualified for` 误写为 `can be qualified for` | 应用文写作 | 2026-05-10 | ✅ 第1次复习通过 | 2026-05-13 |
 | 过去分词作后置定语理由不完整：需说清"被动关系 + 过去分词 + 不能用过去式" | 非谓语动词 | 2026-05-13 | ✅ 2026-05-14 三点全部复述正确 | 2026-05-14 |
 | `finish volunteer work greatly` 中式表达 | 应用文写作 | 2026-05-17 | ✅ 当日纠正为 `do a good job as a volunteer` | 2026-05-17 |
-| `your early reply` 中漏写 `early` | 应用文写作 | 2026-05-17 | 🟡 需下次快检 | - |
+| `your early reply` 中漏写 `early` | 应用文写作 | 2026-05-17 | ✅ 2026-05-18 快检通过 | 2026-05-18 |
+| 七选五技巧能做对，但尚未完成完整步骤复述 | 阅读/七选五 | 2026-05-18 | 🟡 下次先做费曼复述 | - |
 
 ---
 
@@ -175,18 +180,20 @@
 | `Designed to...` 过去分词作状语/修饰 | 2026-05-05 | 2 | 2026-05-12 | ✅ 第2次复习通过 |
 | 分词作状语：主动关系用 `doing`，被动/状态用 `done` | 2026-05-06 | 1 | 2026-05-10 | ✅ 第1次复习通过 |
 | 分词作状语的逻辑主语一致 | 2026-05-06 | 1 | 2026-05-10 | ✅ 第1次复习通过 |
-| `write - wrote - written` 不规则变化 | 2026-05-06 | 2 | 2026-05-18 | ✅ 2026-05-14 复查通过，形式稳定 |
+| `write - wrote - written` 不规则变化 | 2026-05-06 | 3 | 2026-05-25 | ✅ 2026-05-18 第3次复查通过，形式和理由稳定 |
 | `Given more time...` 过去分词条件状语 | 2026-05-06 | 1 | 2026-05-10 | ✅ 第1次复习通过 |
 | 分词作定语 vs 分词作状语 | 2026-05-08 | 3 | 2026-05-24 | ✅ 第3次复习通过 |
 | 现在分词作定语：主动/进行/状态 | 2026-05-08 | 3 | 2026-05-24 | ✅ 第3次复习通过 |
-| 过去分词作定语/状语：被动/完成/状态 | 2026-05-08 | 2 | 2026-05-18 | ✅ 2026-05-14 补充复查通过 |
+| 过去分词作定语/状语：被动/完成/状态 | 2026-05-08 | 3 | 2026-05-25 | ✅ 2026-05-18 复查通过 |
 | 复杂句输出中的定语从句不断句 | 2026-05-08 | 1 | 2026-05-12 | ✅ 第1次复习通过 |
 | `comfort sb.` / `cope with pressure` | 2026-05-10 | 1 | 2026-05-15 | ✅ 第1次复习通过 |
 | 申请信：`apply for` / `be qualified for` | 2026-05-10 | 1 | 2026-05-15 | ✅ 第1次复习通过 |
 | 过去分词作后置定语：`written` vs `wrote` | 2026-05-13 | 1 | 2026-05-16 | ✅ 第1次复习通过 |
-| 申请信优势句：`have a good command of English` + `which enables me to...` | 2026-05-17 | 0 | 2026-05-18 | ⬜ 新增，待第1次复习 |
-| 申请信贡献句：`do a good job as a volunteer` | 2026-05-17 | 0 | 2026-05-18 | ⬜ 新增，待第1次复习 |
-| 申请信收尾句：`consider my application` / `your early reply` | 2026-05-17 | 0 | 2026-05-18 | ⬜ 新增，待第1次复习 |
+| 申请信优势句：`have a good command of English` + `which enables me to...` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
+| 申请信贡献句：`do a good job as a volunteer` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
+| 申请信收尾句：`consider my application` / `your early reply` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
+| 七选五基础技巧：看位置、找同义替换、看代词指代、排除干扰项 | 2026-05-18 | 0 | 2026-05-19 | ⬜ 新学，待第1次复习 |
+| 阅读表达：`remove distractions` / `set realistic goals` / `learn from mistakes` / `feel stuck` | 2026-05-18 | 0 | 2026-05-19 | ⬜ 新学，待第1次复习 |
 
 ### 复习间隔说明
 - 第1次复习：学习后1天
@@ -210,10 +217,11 @@
 
 ### 近期目标（本周）
 
-1. ✅ ~~复查 `written` vs `wrote`~~（2026-05-14 通过）
+1. ✅ ~~复查 `written` vs `wrote`~~（2026-05-18 再次通过）
 2. ✅ ~~完成申请信第 3-4 句：个人优势（`I have a good command of English...`）与具体贡献~~（2026-05-17 完成）
-3. 继续完形语境搭配：情绪线、提示词、固定搭配
-4. 下次快检申请信收尾：`do a good job as a volunteer` / `your early reply`
+3. ✅ ~~快检申请信收尾：`do a good job as a volunteer` / `your early reply`~~（2026-05-18 通过）
+4. 下次先做七选五技巧费曼复述，再做一篇更接近高考长度的5空训练
+5. 继续完形语境搭配：情绪线、提示词、固定搭配
 
 ### 中期目标（本月）
 
@@ -246,6 +254,7 @@
 
 | 日期 | 时长 | 主要内容 | 详细记录 |
 |------|------|----------|----------|
+| 2026-05-18 | 约30分钟 | 到期复习：`written` vs `wrote`、申请信优势/贡献/收尾句全部通过；新学七选五基础技巧：段首空、同义替换、代词指代、逻辑衔接和干扰项排除；18题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-18/session-notes.md) |
 | 2026-05-17 | 约30分钟 | 到期复习：分词作定语 vs 状语、现在分词后置定语快检稳定；周末专项：申请信优势句、贡献句、收尾句；9题首次严格正确7题，表达纠错后9题掌握，纠错后正确率100% | [session-notes.md](../../sessions/niki/2026-05-17/session-notes.md) |
 | 2026-05-14 | 约10分钟 | 到期复查：`written` vs `wrote` 两题语法填空全对；过去分词作后置定语完整理由（三点）复述通过；翻译输出独立完成；4题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-14/session-notes.md) |
 | 2026-05-13 | 约20分钟 | 到期复习：申请信 `apply for` / `be qualified for` 通过；完形搭配 `comfort`、`cope with pressure` 通过；非谓语分词快检中 `written` 误写为 `wrote`，纠错后掌握形式，需明日复查完整理由；正式练习7题首次正确4题，纠错后7题掌握 | [session-notes.md](../../sessions/niki/2026-05-13/session-notes.md) |
