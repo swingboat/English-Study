@@ -3,7 +3,7 @@
 **学生**：Niki  
 **目标**：2027年安徽高考英语  
 **开始日期**：2026年2月23日  
-**最后更新**：2026年5月18日
+**最后更新**：2026年5月21日
 
 ---
 
@@ -11,10 +11,10 @@
 
 | 模块 | 进度 | 状态 |
 |------|------|------|
-| 词汇 | 35/3500 | 🟡 已启动 |
+| 词汇 | 45/3500 | 🟡 已启动 |
 | 语法 | 1/15 专题 | 🟡 非谓语动词分词作定语/状语复习稳定 |
-| 阅读理解 | 0/100 篇 + 13道七选五微练 | 🟡 七选五衔接线索入门稳定 |
-| 完形填空 | 0/50 篇 + 3道语境题 | 🟡 完形语境搭配启动 |
+| 阅读理解 | 0/100 篇 + 18道七选五微练 + 1题技巧验证 | 🟡 七选五基础技巧第1次复习通过 |
+| 完形填空 | 0/50 篇 + 23道语境题 | 🟡 完形情绪线、逻辑线、复现线索与主题词入门稳定 |
 | 语法填空 | 4/50 篇 + 4道非谓语快检 | 🟡 非谓语语境填空、改写与结构判断稳定 |
 | 读后续写 | 0/30 篇 | ⬜ 未开始 |
 | 应用文写作 | 0/20 篇 + 6句申请信骨架成段输出 + 1次到期复习 | 🟡 申请信句式复习稳定 |
@@ -29,7 +29,7 @@
 #### 高考核心3500词
 | 阶段 | 词汇量 | 进度 | 状态 |
 |------|--------|------|------|
-| 第一阶段（高频1000词） | 35/1000 | 3.5% | 🟡 |
+| 第一阶段（高频1000词） | 45/1000 | 4.5% | 🟡 |
 | 第二阶段（次高频1000词） | 0/1000 | 0% | ⬜ |
 | 第三阶段（中频1000词） | 0/1000 | 0% | ⬜ |
 | 第四阶段（其他500词） | 0/500 | 0% | ⬜ |
@@ -38,7 +38,7 @@
 - [ ] 词根词缀系统学习
 - [ ] 熟词生义整理
 - [ ] 易混词辨析
-- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck）
+- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck; take a deep breath; face new challenges; believe in oneself; hard work paid off; give sb. a big hand; discover one's own value; take the first step; feel embarrassed）
 
 ### 二、语法专题
 
@@ -68,13 +68,13 @@
 | 推理判断题 | 0 | - | ⬜ |
 | 主旨大意题 | 0 | - | ⬜ |
 | 词义猜测题 | 0 | - | ⬜ |
-| 七选五 | 13道微练 + 1题技巧验证 | 100% | 🟡 |
+| 七选五 | 18道微练 + 1题技巧验证 | 100% | 🟡 |
 
 ### 四、完形填空
 
 | 类型 | 练习量 | 平均得分 | 状态 |
 |------|--------|----------|------|
-| 记叙文 | 3道语境题 | 100% | 🟡 |
+| 记叙文 | 23道语境题 | 100% | 🟡 |
 | 夹叙夹议 | 0 | - | ⬜ |
 | 议论文 | 0 | - | ⬜ |
 
@@ -144,6 +144,10 @@
 | 申请信第1次到期复习：优势句、贡献句、收尾句 | 应用文写作 | 2026-05-18 | 高 |
 | 七选五：段首空、空后线索与同义替换判断 | 阅读/七选五 | 2026-05-18 | 中高 |
 | 七选五：代词指代、逻辑衔接与绝对化干扰项排除 | 阅读/七选五 | 2026-05-18 | 中高 |
+| 七选五基础技巧第1次复习：5空短篇全对 | 阅读/七选五 | 2026-05-21 | 高 |
+| 完形情绪线与逻辑线：人物情绪变化、转折关系判断 | 完形填空 | 2026-05-21 | 高 |
+| 完形复现线索：同类词、近义词、动作结果 | 完形填空 | 2026-05-21 | 高 |
+| 完形主题词：人物成长、鼓励、善意与自我价值 | 完形填空 | 2026-05-21 | 高 |
 
 ---
 
@@ -164,7 +168,8 @@
 | 过去分词作后置定语理由不完整：需说清"被动关系 + 过去分词 + 不能用过去式" | 非谓语动词 | 2026-05-13 | ✅ 2026-05-14 三点全部复述正确 | 2026-05-14 |
 | `finish volunteer work greatly` 中式表达 | 应用文写作 | 2026-05-17 | ✅ 当日纠正为 `do a good job as a volunteer` | 2026-05-17 |
 | `your early reply` 中漏写 `early` | 应用文写作 | 2026-05-17 | ✅ 2026-05-18 快检通过 | 2026-05-18 |
-| 七选五技巧能做对，但尚未完成完整步骤复述 | 阅读/七选五 | 2026-05-18 | 🟡 下次先做费曼复述 | - |
+| 七选五技巧能做对，但尚未完成完整步骤复述 | 阅读/七选五 | 2026-05-18 | ✅ 5空复习全对，能说明部分依据 | 2026-05-21 |
+| 完形微练全对，后续需升级到更长篇章并说明每题依据 | 完形填空 | 2026-05-21 | 🟡 下次用8-10空短篇训练线索标注 | - |
 
 ---
 
@@ -192,8 +197,12 @@
 | 申请信优势句：`have a good command of English` + `which enables me to...` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
 | 申请信贡献句：`do a good job as a volunteer` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
 | 申请信收尾句：`consider my application` / `your early reply` | 2026-05-17 | 1 | 2026-05-20 | ✅ 第1次复习通过 |
-| 七选五基础技巧：看位置、找同义替换、看代词指代、排除干扰项 | 2026-05-18 | 0 | 2026-05-19 | ⬜ 新学，待第1次复习 |
-| 阅读表达：`remove distractions` / `set realistic goals` / `learn from mistakes` / `feel stuck` | 2026-05-18 | 0 | 2026-05-19 | ⬜ 新学，待第1次复习 |
+| 七选五基础技巧：看位置、找同义替换、看代词指代、排除干扰项 | 2026-05-18 | 1 | 2026-05-23 | ✅ 第1次复习通过 |
+| 阅读表达：`remove distractions` / `set realistic goals` / `learn from mistakes` / `feel stuck` | 2026-05-18 | 1 | 2026-05-23 | ✅ 第1次复习通过 |
+| 完形情绪线与逻辑线：人物情绪变化、however/but转折 | 2026-05-21 | 0 | 2026-05-22 | ⬜ 新学，待第1次复习 |
+| 完形复现线索：同类词、近义词、动作结果 | 2026-05-21 | 0 | 2026-05-22 | ⬜ 新学，待第1次复习 |
+| 完形主题词：人物成长、鼓励、善意、自我价值 | 2026-05-21 | 0 | 2026-05-22 | ⬜ 新学，待第1次复习 |
+| 完形表达：`paid off` / `face challenges` / `believe in oneself` / `discover one's own value` | 2026-05-21 | 0 | 2026-05-22 | ⬜ 新学，待第1次复习 |
 
 ### 复习间隔说明
 - 第1次复习：学习后1天
@@ -220,8 +229,9 @@
 1. ✅ ~~复查 `written` vs `wrote`~~（2026-05-18 再次通过）
 2. ✅ ~~完成申请信第 3-4 句：个人优势（`I have a good command of English...`）与具体贡献~~（2026-05-17 完成）
 3. ✅ ~~快检申请信收尾：`do a good job as a volunteer` / `your early reply`~~（2026-05-18 通过）
-4. 下次先做七选五技巧费曼复述，再做一篇更接近高考长度的5空训练
-5. 继续完形语境搭配：情绪线、提示词、固定搭配
+4. ✅ ~~七选五技巧第1次复习：5空短篇全对~~（2026-05-21 通过）
+5. ✅ ~~完形语境搭配入门：情绪线、逻辑线、复现线索、主题词~~（2026-05-21 通过）
+6. 下次升级完形：8-10空短篇，要求说明“依据句 + 线索类型”
 
 ### 中期目标（本月）
 
@@ -254,6 +264,7 @@
 
 | 日期 | 时长 | 主要内容 | 详细记录 |
 |------|------|----------|----------|
+| 2026-05-21 | 约30分钟 | 到期复习：七选五基础技巧5题全对；新学完形情绪线、逻辑线、复现线索和主题词；25题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-21/session-notes.md) |
 | 2026-05-18 | 约30分钟 | 到期复习：`written` vs `wrote`、申请信优势/贡献/收尾句全部通过；新学七选五基础技巧：段首空、同义替换、代词指代、逻辑衔接和干扰项排除；18题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-18/session-notes.md) |
 | 2026-05-17 | 约30分钟 | 到期复习：分词作定语 vs 状语、现在分词后置定语快检稳定；周末专项：申请信优势句、贡献句、收尾句；9题首次严格正确7题，表达纠错后9题掌握，纠错后正确率100% | [session-notes.md](../../sessions/niki/2026-05-17/session-notes.md) |
 | 2026-05-14 | 约10分钟 | 到期复查：`written` vs `wrote` 两题语法填空全对；过去分词作后置定语完整理由（三点）复述通过；翻译输出独立完成；4题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-14/session-notes.md) |
