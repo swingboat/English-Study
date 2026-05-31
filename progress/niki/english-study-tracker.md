@@ -3,7 +3,7 @@
 **学生**：Niki  
 **目标**：2027年安徽高考英语  
 **开始日期**：2026年2月23日  
-**最后更新**：2026年5月28日
+**最后更新**：2026年5月30日
 
 ---
 
@@ -11,13 +11,13 @@
 
 | 模块 | 进度 | 状态 |
 |------|------|------|
-| 词汇 | 58/3500 | 🟡 已启动 |
-| 语法 | 2/15 专题 | 🟡 非谓语动词稳定；定语从句 `whose` 已启动 |
-| 阅读理解 | 0/100 篇 + 18道七选五微练 + 2题技巧验证 | 🟡 七选五关键词复现依据说明稳定 |
+| 词汇 | 83/3500 | 🟡 已启动 |
+| 语法 | 2/15 专题 | 🟡 非谓语动词稳定；定语从句 `whose` 与 `介词 + which/whom` 入门通过 |
+| 阅读理解 | 0/100 篇 + 46道七选五微练 + 17题依据说明 | 🟡 七选五关键词复现、代词指代、逻辑关系与依据说明第2次复习通过 |
 | 完形填空 | 0/50 篇 + 33道语境题 + 1次7空周末专项 | 🟡 完形四条线索第1次复习通过，短篇专项全对 |
-| 语法填空 | 4/50 篇 + 39道非谓语/无提示词/定语从句快检 | 🟡 `to do` 原因/目的第1次复习通过；`whose` 所属关系新学稳定 |
+| 语法填空 | 4/50 篇 + 59道非谓语/无提示词/定语从句快检 | 🟡 `to do` 原因/目的第2次复习通过；定语从句 `介词 + which/whom` 第1次复习通过 |
 | 读后续写 | 0/30 篇 | ⬜ 未开始 |
-| 应用文写作 | 0/20 篇 + 6句申请信骨架成段输出 + 1次到期复习 | 🟡 申请信句式复习稳定 |
+| 应用文写作 | 0/20 篇 + 6句申请信骨架成段输出 + 4句阅读表达转写作 | 🟡 申请信句式复习稳定；学习建议类表达已启动 |
 | 听力 | 0/50 套 | ⬜ 未开始 |
 
 ---
@@ -29,7 +29,7 @@
 #### 高考核心3500词
 | 阶段 | 词汇量 | 进度 | 状态 |
 |------|--------|------|------|
-| 第一阶段（高频1000词） | 58/1000 | 5.8% | 🟡 |
+| 第一阶段（高频1000词） | 83/1000 | 8.3% | 🟡 |
 | 第二阶段（次高频1000词） | 0/1000 | 0% | ⬜ |
 | 第三阶段（中频1000词） | 0/1000 | 0% | ⬜ |
 | 第四阶段（其他500词） | 0/500 | 0% | ⬜ |
@@ -38,14 +38,14 @@
 - [ ] 词根词缀系统学习
 - [ ] 熟词生义整理
 - [ ] 易混词辨析
-- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck; take a deep breath; face new challenges; believe in oneself; hard work paid off; give sb. a big hand; discover one's own value; take the first step; feel embarrassed; be surprised to do sth.; be shocked to do sth.; stay up late; be canceled; make a difference; give sb. advice; help others）
+- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck; take a deep breath; face new challenges; believe in oneself; hard work paid off; give sb. a big hand; discover one's own value; take the first step; feel embarrassed; be surprised to do sth.; be shocked to do sth.; stay up late; be canceled; make a difference; give sb. advice; help others; learn from; talk to sb.; be born in; next to; for this reason; have a meeting in; in which/from which/to whom; use English in real situations; make ... more useful and natural; a clear plan; use time wisely; short breaks; deep breathing; step by step; clear writing; simple but accurate words; read your writing aloud; think clearly about what we want to say; confidence; preparation; body language; regular sleep time; caffeine）
 
 ### 二、语法专题
 
 | 专题 | 状态 | 掌握日期 | 备注 |
 |------|------|----------|------|
 | 时态与语态 | ⬜ | - | |
-| 定语从句 | 🟡 | 2026-05-28 | 关系词入门通过；`whose` 所属关系已启动；时间先行词 `when/that` 对比需复查 |
+| 定语从句 | 🟡 | 2026-05-29 | 关系词入门通过；`whose` 第1次复习通过；时间先行词 `when/that/which` 对比通过；`介词 + which/whom` 入门通过 |
 | 名词性从句 | ⬜ | - | |
 | 状语从句 | ⬜ | - | |
 | 非谓语动词 | 🟡 | 2026-05-05 | 基础含义、`only to do`、分词作状语、逻辑主语一致已训练；分词作定语 vs 状语复习稳定；`written`/`wrote` 易混点已初步稳定，按计划复查 |
@@ -68,7 +68,7 @@
 | 推理判断题 | 0 | - | ⬜ |
 | 主旨大意题 | 0 | - | ⬜ |
 | 词义猜测题 | 0 | - | ⬜ |
-| 七选五 | 18道微练 + 2题技巧验证 | 100% | 🟡 |
+| 七选五 | 46道微练 + 17题依据说明 | 100% | 🟡 |
 
 ### 四、完形填空
 
@@ -84,7 +84,7 @@
 |------|--------|----------|------|
 | 有提示词 | 6道非谓语语境题 + 11道`to do`原因/目的判断 + 2道结构/改写 | 近次100% | 🟡 |
 | 无提示词 | 6道冠词/介词/连词初判 | 近次100% | 🟡 |
-| 综合练习 | 18道定语从句关系词/`whose`快检 | 近次纠错后100% | 🟡 |
+| 综合练习 | 38道定语从句关系词/`whose`/`介词 + which/whom`快检与输出 | 近次100% | 🟡 |
 
 ### 六、写作
 
@@ -105,6 +105,7 @@
 | 邀请信 | 0 | ⬜ |
 | 感谢信 | 0 | ⬜ |
 | 申请信 | 6句骨架成段输出 + 到期复习100% | 🟡 |
+| 学习建议类表达 | 4句阅读表达转写作 | 🟡 |
 | 通知/公告 | 0 | ⬜ |
 
 ### 七、听力
@@ -157,6 +158,20 @@
 | 七选五关键词复现依据说明：`study plan` ↔ `good plan` | 阅读/七选五 | 2026-05-28 | 高 |
 | 定语从句 `whose + 名词` 表所属关系 | 语法/定语从句 | 2026-05-28 | 中高 |
 | 定语从句输出：`I like the girl who always helps others.` | 语法/写作表达 | 2026-05-28 | 高 |
+| 定语从句 `whose` 所属关系第1次复习 | 语法/定语从句 | 2026-05-29 | 高 |
+| 时间先行词 `day`：缺宾语用 `that/which`，缺时间状语用 `when` | 语法/定语从句 | 2026-05-29 | 高 |
+| 定语从句输出：`whose dream...` / `teacher who/that gave me advice` | 语法/写作表达 | 2026-05-29 | 高 |
+| 定语从句 `介词 + which/whom`：根据原句搭配判断介词 | 语法/定语从句 | 2026-05-29 | 中高 |
+| `This is the book from which I learned a lot.` / `This is the teacher to whom I talked just now.` | 语法/写作表达 | 2026-05-29 | 中高 |
+| `to do` 表原因/目的第2次复习 | 语法/语法填空 | 2026-05-30 | 高 |
+| 定语从句 `介词 + which/whom` 第1次复习：完整句输出 | 语法/写作表达 | 2026-05-30 | 高 |
+| 七选五代词指代：`they/this/them` 指代对象判断 | 阅读/七选五 | 2026-05-30 | 高 |
+| 七选五同义替换与依据说明：`review plan` ↔ `clear plan` | 阅读/七选五 | 2026-05-30 | 高 |
+| 阅读表达转写作：`use English in real situations` / `make it more useful and natural` | 写作表达 | 2026-05-30 | 中高 |
+| 七选五逻辑关系：转折、总结、例证与代词承接 | 阅读/七选五 | 2026-05-30 | 高 |
+| 七选五写作主题：清晰写作、简单准确用词、朗读修改 | 阅读/写作表达 | 2026-05-30 | 高 |
+| 写作表达：`Before writing, we should think clearly about what we want to say.` | 写作表达 | 2026-05-30 | 高 |
+| 写作表达：`Using simple but accurate words is better than using difficult words incorrectly.` | 写作表达 | 2026-05-30 | 中高 |
 
 ---
 
@@ -180,9 +195,11 @@
 | 七选五技巧能做对，但尚未完成完整步骤复述 | 阅读/七选五 | 2026-05-18 | ✅ 5空复习全对，能说明部分依据 | 2026-05-21 |
 | 完形微练全对，后续需升级到更长篇章并说明每题依据 | 完形填空 | 2026-05-21 | ✅ 7空周末专项全对，后续升级10-15空 | 2026-05-24 |
 | `be surprised/shocked/glad/sorry + to do` 易误判为目的 | 语法/非谓语 | 2026-05-24 | ✅ 第1次复习通过 | 2026-05-28 |
-| 定语从句刚启动，`whose`、介词+关系代词、非限定性从句尚未学 | 语法/定语从句 | 2026-05-24 | 🟡 `whose` 已启动；后续补介词+关系代词、非限定性从句 | - |
-| 时间先行词 `day` 中 `when` 与 `that/which` 易混 | 语法/定语从句 | 2026-05-28 | 🟡 经提示纠正，需第1次复查 | - |
-| 定语从句合并句与感谢句输出未完成 | 语法/写作表达 | 2026-05-28 | 🟡 下次补做 `whose dream...` / `teacher who gave me advice` | - |
+| 定语从句刚启动，`whose`、介词+关系代词、非限定性从句尚未学 | 语法/定语从句 | 2026-05-24 | 🟡 `whose` 与介词+关系代词已启动；后续补非限定性从句 | - |
+| 时间先行词 `day` 中 `when` 与 `that/which` 易混 | 语法/定语从句 | 2026-05-28 | ✅ 第1次复查通过 | 2026-05-29 |
+| 定语从句合并句与感谢句输出未完成 | 语法/写作表达 | 2026-05-28 | ✅ 已补做通过 | 2026-05-29 |
+| `介词 + which/whom` 初学时对结构含义不清 | 语法/定语从句 | 2026-05-29 | 🟡 已能还原搭配并输出完整句，需第1次复查 | - |
+| 七选五能快速选对，但需要提示才会主动说明依据 | 阅读/七选五 | 2026-05-30 | 🟡 今日依据说明通过；追题量时仍会省略依据，后续需形成默认步骤 | - |
 
 ---
 
@@ -217,13 +234,20 @@
 | 完形主题词：人物成长、鼓励、善意、自我价值 | 2026-05-21 | 1 | 2026-05-26 | ✅ 第1次复习通过 |
 | 完形表达：`paid off` / `face challenges` / `believe in oneself` / `discover one's own value` | 2026-05-21 | 1 | 2026-05-26 | ✅ 第1次复习通过 |
 | 语法填空无提示词：冠词/介词/连词初判 | 2026-05-24 | 1 | 2026-05-30 | ✅ 第1次复习通过 |
-| `to do` 表目的 vs 表原因：`be + adj. + to do` | 2026-05-24 | 1 | 2026-05-30 | ✅ 第1次复习通过 |
-| 定语从句关系词入门：`who/which/that/where/when` | 2026-05-24 | 1 | 2026-05-29 | 🟡 第1次复习基本通过，`when` 经提示纠正 |
-| 定语从句地点/时间先行词陷阱 | 2026-05-24 | 1 | 2026-05-29 | 🟡 地点陷阱通过；时间陷阱需复查 |
-| 七选五基础技巧：关键词复现、代词指代、依据说明 | 2026-05-18 | 2 | 2026-05-30 | 🟡 1题依据说明通过；短篇5空仍需补 |
-| 定语从句 `whose` 所属关系 | 2026-05-28 | 0 | 2026-05-29 | ⬜ 新学，待第1次复习 |
-| 时间先行词 `day`：缺状语用 `when`，缺宾语用 `that/which` | 2026-05-28 | 0 | 2026-05-29 | ⬜ 易错，待第1次复习 |
-| 定语从句输出：`whose dream...` / `teacher who gave me advice` | 2026-05-28 | 0 | 2026-05-29 | ⬜ 未完成输出，待补做 |
+| `to do` 表目的 vs 表原因：`be + adj. + to do` | 2026-05-24 | 2 | 2026-06-03 | ✅ 第2次复习通过 |
+| 定语从句关系词入门：`who/which/that/where/when` | 2026-05-24 | 2 | 2026-06-02 | ✅ 第2次复习通过，`when/that/which` 对比稳定 |
+| 定语从句地点/时间先行词陷阱 | 2026-05-24 | 2 | 2026-06-02 | ✅ 时间先行词陷阱复查通过 |
+| 七选五基础技巧：关键词复现、代词指代、依据说明 | 2026-05-18 | 2 | 2026-06-03 | ✅ 第2次复习完整通过，短篇5空+3空依据说明全对 |
+| 定语从句 `whose` 所属关系 | 2026-05-28 | 1 | 2026-05-31 | ✅ 第1次复习通过 |
+| 时间先行词 `day`：缺状语用 `when`，缺宾语用 `that/which` | 2026-05-28 | 1 | 2026-05-31 | ✅ 第1次复习通过 |
+| 定语从句输出：`whose dream...` / `teacher who/that gave me advice` | 2026-05-28 | 1 | 2026-05-31 | ✅ 补做通过 |
+| 定语从句 `介词 + which/whom` | 2026-05-29 | 1 | 2026-06-01 | ✅ 第1次复习通过 |
+| `which` vs `whom`：物用 `which`，人用 `whom` | 2026-05-29 | 1 | 2026-06-01 | ✅ 第1次复习通过 |
+| `介词 + 关系代词` 完整句输出 | 2026-05-29 | 1 | 2026-06-01 | ✅ 第1次复习通过 |
+| 七选五代词指代 + 同义替换依据说明 | 2026-05-30 | 0 | 2026-06-01 | ⬜ 周末专项通过，待第1次复习 |
+| 阅读表达转写作：`use English in real situations` / `make it more useful and natural` | 2026-05-30 | 0 | 2026-06-01 | ⬜ 新学，待第1次复习 |
+| 写作建议表达：`think clearly about what we want to say` / `simple but accurate words` | 2026-05-30 | 0 | 2026-06-01 | ⬜ 新学，待第1次复习 |
+| 七选五逻辑关系：转折、总结、例证与代词承接 | 2026-05-30 | 0 | 2026-06-01 | ⬜ 追加加练通过，待第1次复习 |
 
 ### 复习间隔说明
 - 第1次复习：学习后1天
@@ -254,9 +278,12 @@
 5. ✅ ~~完形语境搭配入门：情绪线、逻辑线、复现线索、主题词~~（2026-05-21 通过）
 6. ✅ ~~升级完形：7空短篇，要求说明线索类型~~（2026-05-24 周末专项全对）
 7. ✅ ~~复习 `to do` 原因/目的与定语从句关系词入门~~（2026-05-28：`to do` 全对；定语从句 `when` 经提示纠正）
-8. 下次先补 `whose dream...` 与 `teacher who gave me advice` 两道输出题
-9. 下次补七选五第2次复习：短篇5空，要求说明“依据句 + 线索类型”
-10. 下次复查时间先行词陷阱：`the day when...` vs `the day that/which...`
+8. ✅ ~~补 `whose dream...` 与 `teacher who gave me advice` 两道输出题~~（2026-05-29 通过）
+9. ✅ ~~补七选五第2次复习：短篇5空，要求说明“依据句 + 线索类型”~~（2026-05-30 通过）
+10. ✅ ~~复查时间先行词陷阱：`the day when...` vs `the day that/which...`~~（2026-05-29 通过）
+11. ✅ ~~复查 `介词 + which/whom`，重点要求完整句输出~~（2026-05-30 通过）
+12. 下次先复查 `whose`、时间先行词和1题 `介词 + which/whom` 完整句
+13. 下次可进入写作成文课：用学习建议类表达写一段应用文片段
 
 ### 中期目标（本月）
 
@@ -289,6 +316,8 @@
 
 | 日期 | 时长 | 主要内容 | 详细记录 |
 |------|------|----------|----------|
+| 2026-05-30 | 约60分钟 | 到期复习：`to do` 原因/目的、`介词 + which/whom` 完整句输出全对；周末专项与追加加练：七选五代词指代、同义替换和逻辑关系，37题全对，依据说明17处通过 | [session-notes.md](../../sessions/niki/2026-05-30/session-notes.md) |
+| 2026-05-29 | 约30分钟 | 到期复习：`whose`、时间先行词 `when/that/which`、定语从句输出全部通过；新学 `介词 + which/whom`，15题核心关系100%，完整句补全后100% | [session-notes.md](../../sessions/niki/2026-05-29/session-notes.md) |
 | 2026-05-28 | 约30分钟 | 到期复习：`to do` 原因/目的、无提示词、地点先行词陷阱和七选五依据说明；新学定语从句 `whose`；13题首次正确12题，纠错后100% | [session-notes.md](../../sessions/niki/2026-05-28/session-notes.md) |
 | 2026-05-24 | 约35分钟 | 到期复习：完形四条线索与7空周末专项全对；新学语法填空无提示词、`to do` 表原因/目的、定语从句关系词入门；33题首次正确31题，纠错后100% | [session-notes.md](../../sessions/niki/2026-05-24/session-notes.md) |
 | 2026-05-21 | 约30分钟 | 到期复习：七选五基础技巧5题全对；新学完形情绪线、逻辑线、复现线索和主题词；25题全对，正确率100% | [session-notes.md](../../sessions/niki/2026-05-21/session-notes.md) |
@@ -305,6 +334,6 @@
 
 ## 🎯 高考倒计时
 
-**距离2027年高考还有约 379 天**
+**距离2027年高考还有约 373 天**
 
 （2027年高考预计时间：2027年6月7-8日）
