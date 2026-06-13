@@ -3,7 +3,7 @@
 **学生**：Niki  
 **目标**：2027年安徽高考英语  
 **开始日期**：2026年2月23日  
-**最后更新**：2026年6月7日
+**最后更新**：2026年6月12日
 
 ---
 
@@ -11,13 +11,13 @@
 
 | 模块 | 进度 | 状态 |
 |------|------|------|
-| 词汇 | 115/3500 | 🟡 已启动 |
+| 词汇 | 131/3500 | 🟡 已启动 |
 | 语法 | 2/15 专题 | 🟡 非谓语动词稳定；定语从句 `when/that/which`、`whose`、`to whom` 输出复习稳定 |
-| 阅读理解 | 0/100 篇 + 6道阅读细节/同义替换微练 + 63道七选五微练 + 19题依据说明 | 🟡 阅读细节题定位与同义替换入门通过；七选五依据说明改为错题/新方法/易混题抽查 |
-| 完形填空 | 0/50 篇 + 61道语境题 + 2次周末专项 | 🟡 8空完整完形加练全对，能说明情绪线/转折线/搭配线/主题线 |
-| 语法填空 | 4/50 篇 + 65道非谓语/无提示词/定语从句快检 | 🟡 `to do` 原因/目的第3次复习通过；定语从句时间先行词第3次复习通过 |
+| 阅读理解 | 1/100 篇 + 13道阅读细节/同义替换/长难句微练 + 63道七选五微练 + 19题依据说明 | 🟡 整篇阅读入门通过；细节定位、同义替换、词义猜测、推理判断和主旨大意全对 |
+| 完形填空 | 0/50 篇 + 76道语境题 + 2次周末专项 | 🟡 10空完整完形首次9/10、纠错后掌握；提高版隐蔽线索5/5，全程能说明情绪线/转折线/复现线/主题线 |
+| 语法填空 | 4/50 篇 + 67道非谓语/无提示词/定语从句/情态动词快检 | 🟡 `to do` 原因/目的第4次复习通过；定语从句时间先行词第3次复习通过 |
 | 读后续写 | 0/30 篇 + 1次动作情绪微输出 + 1次主题升华句输出 + 1句阅读表达转写作 | 🟡 动作+情绪句自然，已能输出 courage 与 public speaking 主题句 |
-| 听力 | 0/50 套 + 1次听前预测保温 | 🟡 已启动场景词、人物状态、下一步动作预测 |
+| 听力 | 0/50 套 + 2次听前预测保温 | 🟡 已启动场景词、人物状态、下一步动作预测；考前复习作息主题预测通过 |
 
 ---
 
@@ -28,7 +28,7 @@
 #### 高考核心3500词
 | 阶段 | 词汇量 | 进度 | 状态 |
 |------|--------|------|------|
-| 第一阶段（高频1000词） | 115/1000 | 11.5% | 🟡 |
+| 第一阶段（高频1000词） | 131/1000 | 13.1% | 🟡 |
 | 第二阶段（次高频1000词） | 0/1000 | 0% | ⬜ |
 | 第三阶段（中频1000词） | 0/1000 | 0% | ⬜ |
 | 第四阶段（其他500词） | 0/500 | 0% | ⬜ |
@@ -37,7 +37,7 @@
 - [ ] 词根词缀系统学习
 - [ ] 熟词生义整理
 - [ ] 易混词辨析
-- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck; take a deep breath; face new challenges; believe in oneself; hard work paid off; give sb. a big hand; discover one's own value; take the first step; feel embarrassed; be surprised to do sth.; be shocked to do sth.; stay up late; be canceled; make a difference; give sb. advice; help others; learn from; talk to sb.; be born in; next to; for this reason; have a meeting in; in which/from which/to whom; use English in real situations; make ... more useful and natural; a clear plan; use time wisely; short breaks; deep breathing; step by step; clear writing; simple but accurate words; read your writing aloud; think clearly about what we want to say; confidence; preparation; body language; regular sleep time; caffeine; make a wrong decision; in silence; keep trying; support one's idea; give up; be doubtful; remind sb. to do sth.; notice value; small success; predict the main idea; guess its meaning from the words around it; make a real difference; deal with stress wisely; break big tasks into smaller ones; a waste of time; a sign of weakness; courage; take the first step; face one's fear; trust myself; give up easily; encouraging smile; with my hands shaking slightly; moving forward even when we are afraid; public speaking; depend on talent; improve through practice; speak in front of a mirror; build confidence; less nervous）
+- [x] 固定搭配积累（已启动：encourage sb. to do sth.; spend time doing sth.; make oneself heard; be grateful for; be deeply moved by; people in need; reduce stress; be attracted by; comfort sb.; cope with pressure/stress; apply for; the position of a volunteer; be qualified for; have a good command of English; enable sb. to do sth.; gain a better understanding of; willing to help others; do a good job as a volunteer; consider my application; look forward to your early reply; remove distractions; set realistic goals; learn from mistakes; feel stuck; take a deep breath; face new challenges; believe in oneself; hard work paid off; give sb. a big hand; discover one's own value; take the first step; feel embarrassed; be surprised to do sth.; be shocked to do sth.; stay up late; be canceled; make a difference; give sb. advice; help others; learn from; talk to sb.; be born in; next to; for this reason; have a meeting in; in which/from which/to whom; use English in real situations; make ... more useful and natural; a clear plan; use time wisely; short breaks; deep breathing; step by step; clear writing; simple but accurate words; read your writing aloud; think clearly about what we want to say; confidence; preparation; body language; regular sleep time; caffeine; make a wrong decision; in silence; keep trying; support one's idea; give up; be doubtful; remind sb. to do sth.; notice value; small success; predict the main idea; guess its meaning from the words around it; make a real difference; deal with stress wisely; break big tasks into smaller ones; a waste of time; a sign of weakness; courage; take the first step; face one's fear; trust myself; give up easily; encouraging smile; with my hands shaking slightly; moving forward even when we are afraid; public speaking; depend on talent; improve through practice; speak in front of a mirror; build confidence; less nervous; organize new information; connect A with B; what we already know; enough sleep; stay focused; help the brain work better; keep a balance between study and rest; go to bed at a regular time; review key points）
 
 ### 二、语法专题
 
@@ -63,17 +63,17 @@
 
 | 题型 | 练习量 | 正确率 | 状态 |
 |------|--------|--------|------|
-| 细节理解题 | 4道微练 | 100% | 🟡 |
-| 推理判断题 | 1道微练 | 100% | 🟡 |
-| 主旨大意题 | 0 | - | ⬜ |
-| 词义猜测题 | 1道微练 | 100% | 🟡 |
+| 细节理解题 | 6道微练 + 1篇整篇阅读 | 100% | 🟡 |
+| 推理判断题 | 2道微练/整篇题 | 100% | 🟡 |
+| 主旨大意题 | 1道整篇题 | 100% | 🟡 |
+| 词义猜测题 | 2道微练/整篇题 | 100% | 🟡 |
 | 七选五 | 63道微练 + 19题依据说明 | 100% | 🟡 |
 
 ### 四、完形填空
 
 | 类型 | 练习量 | 平均得分 | 状态 |
 |------|--------|----------|------|
-| 记叙文 | 61道语境题 + 2次周末专项 | 近次100% | 🟡 |
+| 记叙文 | 76道语境题 + 2次周末专项 | 近次首次14/15，纠错后100% | 🟡 |
 | 夹叙夹议 | 0 | - | ⬜ |
 | 议论文 | 0 | - | ⬜ |
 
@@ -81,7 +81,7 @@
 
 | 类型 | 练习量 | 平均得分 | 状态 |
 |------|--------|----------|------|
-| 有提示词 | 6道非谓语语境题 + 12道`to do`原因/目的判断 + 2道结构/改写 | 近次100% | 🟡 |
+| 有提示词 | 6道非谓语语境题 + 13道`to do`原因/目的判断 + 2道结构/改写 | 近次100% | 🟡 |
 | 无提示词 | 6道冠词/介词/连词初判 | 近次100% | 🟡 |
 | 综合练习 | 43道定语从句关系词/`whose`/`介词 + which/whom`快检与输出 | 近次100% | 🟡 |
 
@@ -104,14 +104,14 @@
 | 邀请信 | 0 | ⬜ |
 | 感谢信 | 0 | ⬜ |
 | 申请信 | 6句骨架成段输出 + 到期复习100% | 🟡 |
-| 学习建议类表达 | 4句阅读表达转写作 | 🟡 |
+| 学习建议类表达 | 7句阅读表达转写作 | 🟡 |
 | 通知/公告 | 0 | ⬜ |
 
 ### 七、听力
 
 | 题型 | 练习量 | 正确率 | 状态 |
 |------|--------|--------|------|
-| 短对话 | 3题听前预测 | 100% | 🟡 |
+| 短对话 | 4题听前预测 | 100% | 🟡 |
 | 长对话 | 0 | - | ⬜ |
 | 独白 | 0 | - | ⬜ |
 
@@ -192,6 +192,19 @@
 | 阅读细节题定位：题干关键词 -> 原文对应句 -> 同义替换 | 阅读理解 | 2026-06-07 | 中高 |
 | 阅读词义猜测：`calmer` = `less nervous` | 阅读理解 | 2026-06-07 | 高 |
 | 阅读表达转写作：`Public speaking does not only depend on talent...` | 阅读/写作表达 | 2026-06-07 | 中高 |
+| `to do` 表原因/目的第4次复习：`be excited to hear...` | 语法/语法填空 | 2026-06-12 | 高 |
+| 整篇阅读入门：睡眠与备考主题，细节/词义/推理/主旨全对 | 阅读理解 | 2026-06-12 | 高 |
+| 阅读细节题方法复述：题干关键词 -> 原文定位 -> 同义替换验证 | 阅读理解 | 2026-06-12 | 高 |
+| 长难句拆解：`organizes... and connects it with what...` | 阅读/长难句 | 2026-06-12 | 高 |
+| 写作表达：`Rest is not a waste of time; it can help the brain work better.` | 阅读/写作表达 | 2026-06-12 | 高 |
+| 写作表达：`Reading can connect new words with real contexts.` | 阅读/写作表达 | 2026-06-12 | 高 |
+| 建议信表达：`keep a balance between study and rest` | 应用文写作 | 2026-06-12 | 高 |
+| 听力听前预测：考前复习与规律作息主题 | 听力 | 2026-06-12 | 高 |
+| 10空完整完形：考前焦虑、合理休息、冷静自信与聪明备考 | 完形填空 | 2026-06-12 | 中高 |
+| 完形线索综合：情绪线、复现线、转折线、主题线 | 完形填空 | 2026-06-12 | 高 |
+| 完形错题纠正：`with growing confidence` 根据人物情绪线判断 | 完形填空 | 2026-06-12 | 中高 |
+| 提高版完形隐蔽线索：动作、心理、主题升华综合判断 | 完形填空 | 2026-06-12 | 高 |
+| 人物成长线：容易焦虑 -> 保持冷静、相信自己、帮助别人 | 完形/读后续写 | 2026-06-12 | 高 |
 
 ---
 
@@ -223,6 +236,8 @@
 | 英文输出标点和大小写偶有不规范 | 写作/表达 | 2026-06-07 | 🟡 今日已提醒 `Although` 句首大写、从句后加逗号 | - |
 | 听力刚启动，目前仅完成听前预测 | 听力 | 2026-06-07 | 🟡 后续需加入听后复述和信息整理 | - |
 | 阅读理解刚启动，目前只做微型材料 | 阅读理解 | 2026-06-07 | 🟡 后续需升级到整篇阅读并记录同义替换 | - |
+| 整篇阅读刚启动，文本长度和设问隐蔽度仍需逐步升级 | 阅读理解 | 2026-06-12 | 🟡 已完成1篇入门整篇阅读，下一步增加长度并记录同义替换 | - |
+| 完形中 `confidence` vs `silence` 易受表层情境干扰 | 完形填空 | 2026-06-12 | 🟡 已引导纠正；下次遇到人物心理题优先看情绪变化线 | - |
 
 ---
 
@@ -257,7 +272,7 @@
 | 完形主题词：人物成长、鼓励、善意、自我价值 | 2026-05-21 | 1 | 2026-05-26 | ✅ 第1次复习通过 |
 | 完形表达：`paid off` / `face challenges` / `believe in oneself` / `discover one's own value` | 2026-05-21 | 1 | 2026-05-26 | ✅ 第1次复习通过 |
 | 语法填空无提示词：冠词/介词/连词初判 | 2026-05-24 | 1 | 2026-05-30 | ✅ 第1次复习通过 |
-| `to do` 表目的 vs 表原因：`be + adj. + to do` | 2026-05-24 | 3 | 2026-06-12 | ✅ 第3次复习通过 |
+| `to do` 表目的 vs 表原因：`be + adj. + to do` | 2026-05-24 | 4 | 2026-06-27 | ✅ 第4次复习通过 |
 | 定语从句关系词入门：`who/which/that/where/when` | 2026-05-24 | 3 | 2026-06-09 | ✅ 第3次复习通过，`when/that/which` 对比稳定 |
 | 定语从句地点/时间先行词陷阱 | 2026-05-24 | 3 | 2026-06-09 | ✅ 时间先行词陷阱第3次复查通过 |
 | 七选五基础技巧：关键词复现、代词指代、依据说明 | 2026-05-18 | 2 | 2026-06-03 | ✅ 第2次复习完整通过，短篇5空+3空依据说明全对 |
@@ -284,6 +299,16 @@
 | 听力听前预测：场景词 + 人物状态 + 下一步动作 | 2026-06-07 | 0 | 2026-06-08 | ⬜ 新学，待第1次复习 |
 | 阅读细节题定位：题干关键词 -> 原文对应句 -> 同义替换 | 2026-06-07 | 0 | 2026-06-08 | ⬜ 新学，待第1次复习 |
 | 阅读表达：`public speaking` / `improve through practice` / `build confidence` | 2026-06-07 | 0 | 2026-06-08 | ⬜ 新学，待第1次复习 |
+| 整篇阅读细节定位：题干关键词 -> 原文定位 -> 同义替换验证 | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 阅读主题：sleep/rest 与 exam preparation | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 长难句：`organizes... and connects it with what...` | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 写作表达：`a waste of time` / `help the brain work better` | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 写作表达：`connect A with B` / `keep a balance between study and rest` | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 听力听前预测：考前复习与作息建议 | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 10空完形人物变化线：担心 -> 冷静 -> 自信 -> 理解休息价值 | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 完形错题：`with growing confidence`，根据情绪线判断 | 2026-06-12 | 0 | 2026-06-13 | 🔴 错题，待+1天复习 |
+| 提高版完形隐蔽线索：动作/心理/主题升华 | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
+| 完形表达：`be controlled by fear` / `share sth. with others` / `do the same` | 2026-06-12 | 0 | 2026-06-13 | ⬜ 新学，待第1次复习 |
 
 ### 复习间隔说明
 - 第1次复习：学习后1天
@@ -333,8 +358,11 @@
 17. ✅ ~~启动听力短训练，补齐一轮复习模块闭环~~（2026-06-07：听前预测3题全对）
 18. ✅ ~~升级到8空完整完形短篇，至少说明2个空的线索类型~~（2026-06-07 加练：8/8，全程能说明线索）
 19. ✅ ~~启动阅读细节题定位与同义替换入门~~（2026-06-07 加练：6题全对，方法复述通过）
-20. 下次升级到10空或15空完整完形短篇，继续说明2个空的线索类型
-21. 下次启动整篇阅读理解或听后复述训练
+20. ✅ ~~升级到10空或15空完整完形短篇，继续说明2个空的线索类型~~（2026-06-12：10空完整完形首次9/10、纠错后掌握；提高版5题全对）
+21. ✅ ~~启动整篇阅读理解或听后复述训练~~（2026-06-12：整篇阅读1篇，理解题5/5，长难句和写作迁移通过）
+22. 下次阅读升级到更长文本，记录至少2组同义替换
+23. 下次听力从听前预测升级到听后复述/信息整理
+24. 下次完形升级到15空完整篇，减少明显复现词，增加上下文推断
 
 ### 中期目标（本月）
 
@@ -356,6 +384,7 @@
 | 周期 | 阅读整篇 | 七选五 | 完形 | 语法/语法填空 | 写作输出 | 听力 | 高频错因 Top 3 | 新掌握表达 Top 10 | 下周/下次优先方向 |
 |------|----------|--------|------|----------------|----------|------|----------------|-------------------|------------------|
 | 2026-06-01 至 2026-06-07 | 0篇 + 阅读细节/同义替换微练6题 | 14题新练 + 2题复习，100% | 1题情绪线快检 + 16题人物变化线/线索训练，100% | 2题快检，100% | 读后续写动作+情绪2句 + 主题升华2句 + 阅读表达转写作1句 | 1次听前预测保温，3题全对 | 无明显知识性错题；英文标点和句末标点需提醒；阅读整篇尚未启动 | `courage`; `keep trying`; `face one's fear`; `make a real difference`; `trust myself`; `with my hands shaking slightly`; `moving forward even when we are afraid`; `public speaking`; `improve through practice`; `build confidence` | 升级10-15空完整完形短篇；启动整篇阅读；听力从预测升级到听后复述 |
+| 2026-06-08 至 2026-06-14 | 1篇整篇阅读 + 5道理解题 + 2道长难句/指代题，100% | 0题 | 15题：10空完整完形首次9/10、纠错后10/10；提高版5题全对 | 2题快检，100% | 阅读表达转写作3句 + 完形主题复述2次 | 1次听前预测保温，1题全对 | `confidence` vs `silence` 易受表层情境干扰；输出题偶尔需要先给标准表达再复述；阅读和完形下一步需提高文本长度与线索隐蔽度 | `organize new information`; `connect A with B`; `a waste of time`; `keep a balance between study and rest`; `with growing confidence`; `study wisely`; `be controlled by fear`; `feel familiar`; `share sth. with others`; `do the same` | 完形升级15空完整篇；阅读升级更长文本并记录同义替换；听力加入听后复述 |
 
 ## 📈 模拟考试记录
 
@@ -373,6 +402,7 @@
 
 | 日期 | 时长 | 主要内容 | 详细记录 |
 |------|------|----------|----------|
+| 2026-06-12 | 约60分钟 | 到期复习：`to do` 原因/目的第4次通过；整篇阅读理解5题全对；长难句与写作迁移通过；听前预测1题全对；追加10空完形首次9/10、纠错后掌握，提高版隐蔽线索5题全对，总计29题/项，首次正确率96.6%，纠错后100% | [session-notes.md](../../sessions/niki/2026-06-12/session-notes.md) |
 | 2026-06-07 | 约50分钟 | 到期复习与加练：七选五前后夹击法、完形表达复习通过；完形人物变化线与8空完整微篇全对；阅读细节题定位和同义替换入门；读后续写与阅读表达输出；听力听前预测保温，总计33题/项达标 | [session-notes.md](../../sessions/niki/2026-06-07/session-notes.md) |
 | 2026-06-05 | 约30分钟 | 高考一轮复习启动；到期快检5/5；新学七选五段中空“前后夹击法”，14题全对；读后续写动作+情绪微输出，总计19题100% | [session-notes.md](../../sessions/niki/2026-06-05/session-notes.md) |
 | 2026-06-02 | 约30分钟 | 到期复习：时间先行词 `when/that/which`、`whose`、`from which` 和七选五小题5/5；完形改为高考风格微练，两组12空全对，总计17题100% | [session-notes.md](../../sessions/niki/2026-06-02/session-notes.md) |
