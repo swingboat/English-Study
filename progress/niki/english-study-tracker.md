@@ -3,7 +3,7 @@
 **学生**：Niki  
 **目标**：2027年安徽高考英语  
 **开始日期**：2026年2月23日  
-**最后更新**：2026年7月6日
+**最后更新**：2026年7月25日
 
 ---
 
@@ -11,12 +11,12 @@
 
 | 模块 | 进度 | 状态 |
 |------|------|------|
-| 词汇 | 174/3500 | 🟡 已启动 |
-| 语法 | 4/15 专题 | 🟡 非谓语动词稳定；定语从句 `when/that/which`、`whose`、`to whom` 输出复习稳定；名词性从句 `that/what/whether`、形式主语/形式宾语复习稳定；状语从句已启动，`although/though` 让步关系、`so/such...that` 结果关系第1次复习通过；条件状语从句 `if/unless` 入门通过；时间状语从句主将从现迁移通过；`not...until` 入门通过 |
-| 阅读理解 | 1/100 篇 + 2篇词汇学习短文 + 27道阅读细节/同义替换/长难句/方法微练 + 63道七选五微练 + 24题依据说明 | 🟡 整篇阅读入门通过；词汇语境短文细节题答案正确；`Whether...depends on...` 与 `What many students find difficult...` 主语从句长难句判断通过；阅读三栏“答案 + 原文依据 + 同义替换/关键词”保温通过 |
-| 完形填空 | 0/50 篇 + 80道语境题 + 2次周末专项 | 🟡 10空完整完形首次9/10、纠错后掌握；今日词汇学习主题完形3题全对，`confidence` 错题复查通过 |
-| 语法填空 | 4/50 篇 + 147道非谓语/无提示词/定语从句/名词性从句/状语从句/情态动词/固定结构/形式主语/形式宾语快检 | 🟡 `to do` 原因/目的第4次复习通过；`help sb. (to) do sth.` 第2次复习通过；名词性从句 `that/what/whether/if` 累计34题/项，纠错后100%；`It is + adj. + that/to do`、形式宾语对比复习通过；`although/though` 与 `so/such...that` 第1次复习通过；`if/unless`、时间状语主将从现、`not...until` 入门通过 |
-| 读后续写 | 0/30 篇 + 1次动作情绪微输出 + 1次主题升华句输出 + 23句阅读/语法表达转写作 | 🟡 动作+情绪句自然，已能输出 courage 与 public speaking 主题句；能用 `What we need most is...`、`What many students find useful is not..., but...`、`whether + to do`、`It is important/useful...`、`find/make it...`、`Although...`、`so/such...that`、`if/unless`、`not...until` 做句型输出 |
+| 词汇 | 197/3500 | 🟡 已启动 |
+| 语法 | 4/15 专题 | 🟡 非谓语动词稳定；定语从句 `when/that/which`、`whose`、`to whom` 输出复习稳定；名词性从句 `that/what/whether`、形式主语/形式宾语复习稳定，同位语从句 `that/whether` 第1次复习通过；状语从句已启动，`although/though`、`so/such...that`、`if/unless`、`not...until` 复习稳定；原因状语从句 `because/since/as` 与目的状语从句 `so that` 第2次复习通过；时间/条件状语主将从现复习稳定；普通 `not...until` vs 强调句 `It was not until...that...` 需继续对比快检 |
+| 阅读理解 | 1/100 篇 + 5篇词汇/语法学习短文 + 36道阅读细节/同义替换/长难句/方法微练 + 63道七选五微练 + 28题依据说明 | 🟡 整篇阅读入门通过；词汇语境短文细节题和同义替换题答案正确；`Whether...depends on...`、`What many students find difficult...`、`Even if...she can still understand...`、`Although reading word lists...`、`The belief that mistakes...` 与 `The question whether...which...` 长难句主干判断通过；阅读三栏“答案 + 原文依据 + 同义替换/关键词”保温通过 |
+| 完形填空 | 0/50 篇 + 84道语境题 + 2次周末专项 | 🟡 10空完整完形首次9/10、纠错后掌握；今日完形情绪线、动作线、主题线、原因线4题全对，线索分类需继续精确 |
+| 语法填空 | 4/50 篇 + 200道非谓语/无提示词/定语从句/名词性从句/状语从句/情态动词/固定结构/形式主语/形式宾语快检 | 🟡 `to do` 原因/目的第4次复习通过；`help sb. (to) do sth.` 第2次复习通过；名词性从句 `that/what/whether/if` 与同位语从句 `that/whether` 累计48题/项，纠错后100%；`It is + adj. + that/to do`、形式宾语对比复习通过；状语从句连接词继续推进，`because/since/as` 与 `so that` 第2次复习通过，时间/条件状语主将从现复习通过；非从句语法填空综合专项7/7全对 |
+| 读后续写 | 0/30 篇 + 1次动作情绪微输出 + 1次主题升华句输出 + 45句阅读/语法表达转写作 | 🟡 动作+情绪句自然，已能输出 courage 与 public speaking 主题句；能用 `What we need most is...`、`What many students find useful is not..., but...`、`whether + to do`、`It is important/useful...`、`find/make it...`、`Although...`、`so/such...that`、`if/unless`、`not...until`、`because/since/as`、`so that`、`instead of doing`、`make it easier for sb. to do`、同位语从句 `the idea/belief/question/decision that/whether...` 做句型输出 |
 | 听力 | 0/50 套 + 3次听前预测保温 | 🟡 已启动过听前预测；2026-06-29 起按用户要求后续英语学习不再安排听力题，原听力时间改为阅读/语法/完形/写作输出 |
 
 ---
@@ -28,7 +28,7 @@
 #### 高考核心3500词
 | 阶段 | 词汇量 | 进度 | 状态 |
 |------|--------|------|------|
-| 第一阶段（高频1000词） | 166/1000 | 16.6% | 🟡 |
+| 第一阶段（高频1000词） | 189/1000 | 18.9% | 🟡 |
 | 第二阶段（次高频1000词） | 0/1000 | 0% | ⬜ |
 | 第三阶段（中频1000词） | 0/1000 | 0% | ⬜ |
 | 第四阶段（其他500词） | 0/500 | 0% | ⬜ |
@@ -45,8 +45,8 @@
 |------|------|----------|------|
 | 时态与语态 | ⬜ | - | |
 | 定语从句 | 🟡 | 2026-05-29 | 关系词入门通过；`whose` 第2次复习通过；时间先行词 `when/that/which` 第3次复习通过；`from which/to whom` 完整句输出稳定 |
-| 名词性从句 | 🟡 | 2026-06-21 | `that/what/whether` 入门通过；`if/whether` 第2次复习通过；能区分完整从句用 `that`、缺成分用 `what`、表示“是否”及特殊位置用 `whether`；`it` 形式主语第1次复习通过；`it` 形式宾语入门通过 |
-| 状语从句 | 🟡 | 2026-07-03 | `although/though` 让步状语从句入门通过；`so/such...that` 结果状语从句入门通过 |
+| 名词性从句 | 🟡 | 2026-06-21 | `that/what/whether` 入门通过；`if/whether` 第2次复习通过；能区分完整从句用 `that`、缺成分用 `what`、表示“是否”及特殊位置用 `whether`；`it` 形式主语第1次复习通过；`it` 形式宾语入门通过；同位语从句 `that/whether` 已启动，能判断解释抽象名词内容 |
+| 状语从句 | 🟡 | 2026-07-03 | `although/though`、`so/such...that`、`if/unless`、`not...until` 复习稳定；`because/since/as` 与 `so that` 第2次复习通过；`even though/even if` 入门通过；时间状语主将从现第1次复习通过 |
 | 非谓语动词 | 🟡 | 2026-05-05 | 基础含义、`only to do`、分词作状语、逻辑主语一致已训练；分词作定语 vs 状语复习稳定；`written`/`wrote` 易混点已初步稳定，按计划复查 |
 | 虚拟语气 | ⬜ | - | |
 | 情态动词 | ⬜ | - | |
@@ -63,7 +63,7 @@
 
 | 题型 | 练习量 | 正确率 | 状态 |
 |------|--------|--------|------|
-| 细节理解题 | 11道微练 + 1篇整篇阅读 + 2篇短文 | 100% | 🟡，阅读三栏“答案 + 原文依据 + 同义替换/关键词”保温通过 |
+| 细节理解题 | 14道微练 + 1篇整篇阅读 + 5篇短文 | 100% | 🟡，阅读三栏“答案 + 原文依据 + 同义替换/关键词”保温通过 |
 | 推理判断题 | 2道微练/整篇题 | 100% | 🟡 |
 | 主旨大意题 | 1道整篇题 | 100% | 🟡 |
 | 词义猜测题 | 3道微练/整篇题 | 100% | 🟡 |
@@ -73,7 +73,7 @@
 
 | 类型 | 练习量 | 平均得分 | 状态 |
 |------|--------|----------|------|
-| 记叙文 | 80道语境题 + 2次周末专项 | 近次首次14/15，纠错后100%；今日4题全对 | 🟡 |
+| 记叙文 | 84道语境题 + 2次周末专项 | 近次完形线索综合4题全对；答案稳定，线索分类需更精确 | 🟡 |
 | 夹叙夹议 | 0 | - | ⬜ |
 | 议论文 | 0 | - | ⬜ |
 
@@ -83,7 +83,7 @@
 |------|--------|----------|------|
 | 有提示词 | 6道非谓语语境题 + 13道`to do`原因/目的判断 + 4道结构/改写 | 近次 `help sb. (to) do sth.` 复习通过 | 🟡 |
 | 无提示词 | 6道冠词/介词/连词初判 | 近次100% | 🟡 |
-| 综合练习 | 43道定语从句关系词/`whose`/`介词 + which/whom`快检与输出 + 34道名词性从句 `that/what/whether/if` 快检与输出 + 21道形式主语/形式宾语快检与输出 + 12道状语从句快检与输出 | 近次答案正确率100%，理由/格式补充后100% | 🟡 |
+| 综合练习 | 43道定语从句关系词/`whose`/`介词 + which/whom`快检与输出 + 45道名词性从句 `that/what/whether/if` 与同位语从句快检与输出 + 21道形式主语/形式宾语快检与输出 + 35道状语从句快检与输出 | 近次首次要点正确85.7%，纠错后100%，书面格式需保温 | 🟡 |
 
 ### 六、写作
 
@@ -104,7 +104,7 @@
 | 邀请信 | 0 | ⬜ |
 | 感谢信 | 0 | ⬜ |
 | 申请信 | 6句骨架成段输出 + 到期复习100% | 🟡 |
-| 学习建议类表达 | 26句阅读/语法表达转写作 | 🟡 |
+| 学习建议类表达 | 35句阅读/语法表达转写作 | 🟡 |
 | 通知/公告 | 0 | ⬜ |
 
 ### 七、听力
@@ -254,6 +254,39 @@
 | `not...until`：直到……才…… | 语法/状语从句 | 2026-07-06 | 高 |
 | 阅读依据：`use new words while speaking or writing` -> `remember them for a longer time` | 阅读理解 | 2026-07-06 | 高 |
 | 写作表达：`speak in front of the class` | 写作表达 | 2026-07-06 | 高 |
+| 条件状语从句 `if/unless` 第1次复习：`unless` 后不重复否定 | 语法/状语从句 | 2026-07-13 | 高 |
+| `not...until` 第1次复习：直到……才…… | 语法/状语从句 | 2026-07-13 | 高 |
+| 原因状语从句 `because/since/as` | 语法/状语从句 | 2026-07-13 | 高 |
+| `Because..., so...` 改错：英文中通常只保留一个连接词 | 语法/写作表达 | 2026-07-13 | 高 |
+| 目的状语从句 `so that`：为了/以便 | 语法/写作表达 | 2026-07-13 | 高 |
+| `so that` vs `so...that`：目的 vs 结果 | 语法/状语从句 | 2026-07-13 | 高 |
+| `even though` vs `even if`：事实 vs 假设 | 语法/状语从句 | 2026-07-13 | 高 |
+| 阅读同义替换：`came from her own life` -> `personal examples` | 阅读理解 | 2026-07-13 | 高 |
+| 长难句主干：先找主句主语和谓语 | 阅读/长难句 | 2026-07-13 | 高 |
+| 写作表达：`put new words into real sentences so that...` | 写作表达 | 2026-07-13 | 中高 |
+| `Because..., so...` 改错第1次复习：去掉 `so` | 语法/状语从句 | 2026-07-14 | 高 |
+| 目的状语从句 `so that` 第1次复习：结构稳定 | 语法/写作表达 | 2026-07-14 | 中高 |
+| 完形线索综合：情绪线、动作线、主题线、原因线 | 完形填空 | 2026-07-14 | 中高 |
+| 阅读同义替换：`remember it for a longer time` -> `make the words easier to remember` | 阅读理解 | 2026-07-14 | 高 |
+| 长难句主干：`Although...` 从句后找主句 | 阅读/长难句 | 2026-07-14 | 高 |
+| 写作表达：`instead of ... so that ...` | 写作表达 | 2026-07-14 | 中高 |
+| 写作表达：`Although reading word lists again and again may be useful, putting words into real sentences is more useful.` | 写作表达 | 2026-07-14 | 中高 |
+| 时间状语从句主将从现第1次复习：`when/as soon as` 从句不用 `will` | 语法/状语从句 | 2026-07-16 | 高 |
+| 同位语从句 `that`：解释抽象名词内容 | 语法/名词性从句 | 2026-07-16 | 高 |
+| 同位语从句 vs 定语从句：看从句是否完整、`that` 是否作成分 | 语法/名词性从句 | 2026-07-16 | 高 |
+| 同位语从句 `whether`：解释 `question/decision` 的“是否”内容 | 语法/名词性从句 | 2026-07-16 | 中高 |
+| 写作表达：`We should accept the idea that mistakes can help us find what we need to improve.` | 写作表达 | 2026-07-16 | 中高 |
+| 阅读依据：`The belief that mistakes are a natural part of learning...` | 阅读理解 | 2026-07-16 | 高 |
+| 同位语从句 `whether` 第1次复习：解释 `question`，表示“是否” | 语法/名词性从句 | 2026-07-25 | 中高 |
+| 同位语从句 vs 定语从句：同位语解释内容，定语从句修饰名词 | 语法/长难句 | 2026-07-25 | 中高 |
+| `question whether...` vs `decision that...`：是否/确定内容区分 | 语法/名词性从句 | 2026-07-25 | 中高 |
+| 普通 `not...until...` 与强调句 `It was not until...that...` 对比 | 语法/状语从句/特殊句式 | 2026-07-25 | 中高 |
+| `look forward to doing sth.`：`to` 是介词 | 语法/固定搭配 | 2026-07-25 | 高 |
+| `instead of doing sth.` | 语法/写作表达 | 2026-07-25 | 高 |
+| `pay off`：努力取得成效/得到回报 | 词汇/写作表达 | 2026-07-25 | 高 |
+| `make it easier for sb. to do sth.` 形式宾语输出 | 语法/写作表达 | 2026-07-25 | 高 |
+| 分词作状语主动/被动对比：`Seeing...` vs `Encouraged...` | 语法/非谓语 | 2026-07-25 | 高 |
+| 周六专项：非从句语法填空综合辨析7题全对 | 语法填空 | 2026-07-25 | 高 |
 
 ---
 
@@ -282,7 +315,7 @@
 | 定语从句合并句与感谢句输出未完成 | 语法/写作表达 | 2026-05-28 | ✅ 已补做通过 | 2026-05-29 |
 | `介词 + which/whom` 初学时对结构含义不清 | 语法/定语从句 | 2026-05-29 | ✅ `from which` 完整句保温通过，后续放入综合输出 | 2026-06-02 |
 | 七选五能快速选对，但完整依据说明较耗时 | 阅读/七选五 | 2026-05-30 | 🟡 2026-06-05 调整为常规只写选项，错题/新方法/易混题抽查依据 | - |
-| 英文输出标点和格式偶有不规范 | 写作/表达 | 2026-06-07 | 🟡 已提醒句首大写、从句后逗号；2026-07-03 继续提醒 `Although...` 与 `so...that...` 输出句首大写和句号 | - |
+| 英文输出标点和格式偶有不规范 | 写作/表达 | 2026-06-07 | 🟡 2026-07-14 继续提醒句首大写、句末句号、英文逗号/句号前不空格后空一格 | - |
 | 听力刚启动，目前仅完成听前预测 | 听力 | 2026-06-07 | ⏸️ 2026-06-29 起按用户要求后续英语学习不再安排听力题 | - |
 | 阅读理解刚启动，目前只做微型材料 | 阅读理解 | 2026-06-07 | 🟡 后续需升级到整篇阅读并记录同义替换 | - |
 | 整篇阅读刚启动，文本长度和设问隐蔽度仍需逐步升级 | 阅读理解 | 2026-06-12 | 🟡 已完成1篇入门整篇阅读，下一步增加长度并记录同义替换 | - |
@@ -294,7 +327,15 @@
 | 阅读细节题答案正确但漏写原文依据 | 阅读理解 | 2026-06-25 | ✅ 周末专项已能补“答案 + 原文依据 + 同义替换/关键词”，后续继续保温 | 2026-06-27 |
 | 形式宾语刚入门，需放入语法填空短文或写作小段中综合使用 | 语法/写作表达 | 2026-06-29 | 🟡 第1次复习通过，能选对形式宾语/形式主语综合题；理由说明需继续完整 | - |
 | `so/such...that` 刚启动，需在写作小段中综合使用 | 语法/写作表达 | 2026-07-03 | ✅ 第1次复习通过，能与 `if` 综合输出；表达错误已纠正 | 2026-07-06 |
-| 英文短语易中式直译：`speak face all class`、`check her mistake` | 写作/表达 | 2026-07-06 | 🟡 结构能搭，但需训练地道搭配，如 `speak in front of the class`、`check her writing/work` | - |
+| 英文短语易中式直译：`speak face all class`、`check her mistake` | 写作/表达 | 2026-07-06 | ✅ 2026-07-13 `check her writing` 复查通过，后续在输出中保温 | 2026-07-13 |
+| 输出题信息点不够精准：`twice`、`aloud` 等提示词遗漏 | 写作/表达 | 2026-07-13 | 🟡 2026-07-14 仍需提醒 `aloud`、`more naturally`、`for a longer time` | - |
+| 新学状语从句连接词需防混：`because/since/as`、`so that`、`even though/even if` | 语法/状语从句 | 2026-07-13 | ✅ `because` 改错与 `so that` 输出第1次复习通过；`even though/even if` 待后续复查 | 2026-07-14 |
+| 完形线索分类需更精确：能选对，但需说明主线索和辅助线索 | 完形填空 | 2026-07-14 | 🟡 第10题答案正确；后续要求“主线索 + 辅助线索” | - |
+| `whether` 同位语从句输出易漏情态含义：`should take part in` / `should join` | 语法/名词性从句 | 2026-07-16 | ✅ 第1次复习通过，能解释 `question whether...` 表示“是否” | 2026-07-25 |
+| 长难句中同位语从句作用归属：解释抽象名词，不解释谓语 | 阅读/长难句 | 2026-07-16 | ✅ 纠正后能说出同位语从句解释 `the question`，非限制性定语从句修饰 `the question` | 2026-07-25 |
+| 同位语从句作用表述易说成“修饰” | 语法/长难句 | 2026-07-25 | 🟡 已纠正为“解释抽象名词内容”，下次快检 | - |
+| 普通 `not...until` 与强调句 `It was not until...that...` 易混 | 语法/状语从句/特殊句式 | 2026-07-25 | 🟡 普通结构误填 `that`，提示后改为 `until`；强调句能填 `that` | - |
+| 英文拼写和格式细节：`such` 拼写、句首大写、真正宾语写全 | 写作/表达 | 2026-07-25 | 🟡 非知识性错误，输出题继续保温 | - |
 
 ---
 
@@ -400,11 +441,32 @@
 | `so + adj./adv. + that...` | 2026-07-03 | 1 | 2026-07-08 | ✅ 与 `if` 综合输出，结构正确 |
 | `such a + adj. + 单数名词 + that...` | 2026-07-03 | 1 | 2026-07-08 | ✅ 同类结构保温 |
 | `such + adj. + 不可数/复数名词 + that...` | 2026-07-03 | 1 | 2026-07-08 | ✅ `such great progress that...` 判断正确 |
-| 条件状语从句 `if/unless` | 2026-07-06 | 0 | 2026-07-07 | ⬜ 新学，待第1次复习 |
-| 条件状语从句主将从现 | 2026-07-06 | 0 | 2026-07-07 | ⬜ 新学，待第1次复习 |
-| 时间状语从句主将从现：`as soon as/when/before/after` | 2026-07-06 | 0 | 2026-07-07 | ⬜ 新学，待第1次复习 |
-| `not...until` 表“直到……才……” | 2026-07-06 | 0 | 2026-07-07 | ⬜ 新学，待第1次复习，重点检查搭配自然度 |
-| 地道表达：`speak in front of the class` / `check one's writing` | 2026-07-06 | 0 | 2026-07-07 | ⬜ 新学，待第1次复习 |
+| 条件状语从句 `if/unless` | 2026-07-06 | 1 | 2026-07-15 | ✅ 第1次复习通过，`unless` 后未重复否定 |
+| 条件状语从句主将从现 | 2026-07-06 | 1 | 2026-07-15 | ✅ 第1次复习通过，`unless... won't...` 输出正确 |
+| 时间状语从句主将从现：`as soon as/when/before/after` | 2026-07-06 | 1 | 2026-07-18 | ✅ 第1次复习通过，`when/as soon as` 输出正确，三单和格式需提醒 |
+| `not...until` 表“直到……才……” | 2026-07-06 | 1 | 2026-07-15 | ✅ 第1次复习通过，能与 `unless` 综合输出 |
+| 地道表达：`speak in front of the class` / `check one's writing` | 2026-07-06 | 1 | 2026-07-15 | ✅ `check her writing` 复查通过，`speak in front of the class` 后续保温 |
+| 原因状语从句 `because/since/as` | 2026-07-13 | 2 | 2026-07-20 | ✅ 第2次复习通过，`Because..., so...` 改错要点稳定 |
+| `Because..., so...` 改错 | 2026-07-13 | 2 | 2026-07-20 | ✅ 第2次复习通过，能说明不能连用 |
+| 目的状语从句 `so that` | 2026-07-13 | 2 | 2026-07-20 | ✅ 第2次复习通过；结构未混淆，提示词细节继续保温 |
+| `so that` vs `so...that` | 2026-07-13 | 2 | 2026-07-20 | ✅ 结构未混淆 |
+| `even though` vs `even if` | 2026-07-13 | 0 | 2026-07-15 | ⬜ 待补事实/假设辨析复习 |
+| 长难句主干：主句主语和谓语 | 2026-07-13 | 2 | 2026-07-20 | ✅ 第2次复习通过，核心主语和谓语能找对；同位语从句作用另列易错点 |
+| 完整句格式：句首大写、句号、逗号空格 | 2026-07-13 | 2 | 2026-07-17 | 🟡 仍需保温：句首大写、英文逗号、句末句号 |
+| 完形线索综合：情绪线/动作线/主题线/原因线 | 2026-07-14 | 0 | 2026-07-15 | ⬜ 新学，待第1次复习 |
+| 阅读同义替换：`remember for a longer time` -> `easier to remember` | 2026-07-14 | 0 | 2026-07-15 | ⬜ 新学，待第1次复习 |
+| 写作表达：`instead of ... so that ...` | 2026-07-14 | 0 | 2026-07-15 | ⬜ 新学，待第1次复习 |
+| 长难句主干：`Although...` 从句后找主句 | 2026-07-14 | 0 | 2026-07-15 | ⬜ 新学，待第1次复习 |
+| 同位语从句 `that`：解释抽象名词内容 | 2026-07-16 | 1 | 2026-07-27 | ✅ 第1次复习通过 |
+| 同位语从句 vs 定语从句 | 2026-07-16 | 1 | 2026-07-27 | ✅ 第1次复习通过，表述经纠正后准确 |
+| 同位语从句 `whether`：解释“是否” | 2026-07-16 | 1 | 2026-07-26 | 🟡 第1次复习纠错后通过 |
+| `whether...should do...` 语义输出 | 2026-07-16 | 1 | 2026-07-27 | ✅ 快检中 `should join` 理解稳定 |
+| 长难句主干：同位语从句解释抽象名词 | 2026-07-16 | 1 | 2026-07-27 | ✅ 纠正后通过 |
+| `question whether...`：同位语从句表示“是否” | 2026-07-25 | 0 | 2026-07-26 | 🟡 易错点，待+1天复习 |
+| 普通 `not...until...` vs 强调句 `It was not until...that...` | 2026-07-25 | 0 | 2026-07-26 | 🟡 易错点，待+1天复习 |
+| 形式宾语 `make/find it + adj. + to do...` | 2026-07-25 | 0 | 2026-07-27 | ⬜ 周六专项通过，待第1次复习 |
+| 分词作状语：主动 `doing` / 被动 `done` | 2026-07-25 | 0 | 2026-07-29 | ⬜ 周六专项通过，待第1次复习 |
+| `look forward to doing` / `instead of doing` | 2026-07-25 | 0 | 2026-07-29 | ⬜ 周六专项通过，待第1次复习 |
 
 ### 复习间隔说明
 - 第1次复习：学习后1天
@@ -421,9 +483,9 @@
 ### 高考一轮复习计划（2026-06-05 起）
 
 - 默认结构：到期复习 5-8 分钟 + 一轮主线 15-20 分钟 + 输出验证 8-12 分钟。
-- 当前优先级：复习 `if/unless` 条件状语从句、时间状语从句主将从现、`not...until` 与地道表达搭配；阅读题三栏“答案 + 原文依据 + 同义替换/关键词”保温；完形升级到15空完整篇或较长阅读文本。按用户要求，后续英语学习不再安排听力题。
+- 当前优先级：用3题快检复查 `question whether...`、普通 `not...until...`、强调句 `It was not until...that...`；`even though/even if` 只做1题事实/假设快检；阅读题三栏“答案 + 原文依据 + 同义替换/关键词”继续保温并升级文本长度；完形升级到更长篇章，要求说明“主线索 + 辅助线索”。按用户要求，后续英语学习不再安排听力题。
 - 七选五训练规则：常规题优先只写选项；错题、新方法、易混题抽查依据，避免训练节奏被长依据拖慢。
-- 本周完成：1次 `it` 形式主语/形式宾语第2次复习、1次 `although/though` 与 `so/such...that` 第1次复习、1次条件状语从句 `if/unless` 入门、1次时间状语从句主将从现迁移、1次 `not...until` 入门、1题阅读依据保温、4句语法结构转写作输出；后续优先补15空完形、较长阅读或读后续写5-6句小段。
+- 本周完成：复查同位语从句 `that/whether`、同位语从句 vs 定语从句；完成非从句语法填空综合训练和周六专项，覆盖形式宾语、固定搭配、分词作状语、主将从现、`not...until`、强调句、`so/such...that`、`pay off`、`instead of doing`；本周累计19题/项，首次要点正确17题/项，纠错后100%。后续优先复查 `question whether...`、普通 `not...until` vs 强调句、`even though/even if` 快检，并升级15空完形或较长阅读。
 
 ### 期末冲刺计划（新增）
 
@@ -473,9 +535,23 @@
 36. 下次优先补15空完形或较长阅读，不再安排听力题
 37. ✅ ~~下次复习 `although/though` 与 `although`/`but` 不连用，至少1道改错或改写~~（2026-07-06：综合题通过）
 38. ✅ ~~下次复习 `so/such...that`，至少1道混合选择 + 1句写作输出~~（2026-07-06：`such great progress that` 与 `if...so...that` 输出通过，表达纠错后掌握）
-39. 下次复习 `if/unless`，至少1道改写或语境填空，重点检查 `unless` 后不再加否定
-40. 下次复习时间状语从句主将从现与 `not...until`，至少1道翻译输出
-41. 下次补较长阅读或15空完形，记录至少2组同义替换或线索依据
+39. ✅ ~~下次复习 `if/unless`，至少1道改写或语境填空，重点检查 `unless` 后不再加否定~~（2026-07-13：`Unless...won't...until...` 综合输出通过）
+40. ✅ ~~下次补时间状语从句主将从现第1次复习；`not...until` 已于2026-07-13通过综合输出~~（2026-07-16：`as soon as/when` 主将从现通过，三单和格式需提醒）
+41. 🟡 下次补较长阅读或15空完形，记录至少2组同义替换或线索依据（2026-07-14 已补短文、完形4题和2组同义/依据，仍需升级文本长度）
+42. ✅ ~~下次复查原因状语从句 `because/since/as`，至少1道语法填空或改错~~（2026-07-14：`Because..., so...` 改错通过）
+43. ✅ ~~下次复查目的状语从句 `so that`，至少1句翻译输出，并区分 `so...that`~~（2026-07-14：结构通过，提示词细节保温）
+44. 下次复查 `even though/even if`，至少1道事实/假设辨析
+45. 下次输出题继续检查句首大写、句末句号、英文逗号格式
+46. 下次完形要求说明“主线索 + 辅助线索”，避免只说一个笼统线索
+47. 下次复查 `instead of ... so that ...`，重点检查 `for a longer time` 与句末句号
+48. ✅ ~~下次复查同位语从句 `that/whether`，至少1题同位语从句 vs 定语从句对比~~（2026-07-25：纠错后能区分同位语解释内容、定语从句修饰名词）
+49. ✅ ~~下次复查 `whether...should do...`，重点检查“是否应该/是否要”不能误写成过去式~~（2026-07-25：`whether Niki should join...` 理解通过）
+50. ✅ ~~下次长难句主干继续要求说明：同位语从句解释抽象名词，不解释谓语~~（2026-07-25：纠正后通过）
+51. 下次复查 `question whether...`，重点区分“是否”与确定内容 `that`
+52. 下次复查普通 `not...until` vs 强调句 `It was not until...that...`，至少2题对比
+53. 下次复查 `even though/even if`，只做1题事实/假设辨析
+54. 下次主线升级较长阅读或15空完形，要求至少2组同义替换或主辅线索说明
+55. 下次输出题继续检查句首大写、句末句号、`such` 拼写和真正宾语写全
 
 ### 中期目标（本月）
 
@@ -496,6 +572,8 @@
 
 | 周期 | 阅读整篇 | 七选五 | 完形 | 语法/语法填空 | 写作输出 | 听力 | 高频错因 Top 3 | 新掌握表达 Top 10 | 下周/下次优先方向 |
 |------|----------|--------|------|----------------|----------|------|----------------|-------------------|------------------|
+| 2026-07-20 至 2026-07-26 | 0篇 + 1句长难句结构分析：同位语从句 + 非限制性定语从句，纠错后能说明结构作用 | 0题 | 0题 | 19题/项：同位语从句 `that/whether` 第1次复习；非从句语法填空综合与周六专项7题全对；首次要点正确17/19，纠错后100% | 10句/表达：`be worth discussing`、`find/make it...to do`、`It was not until...that...`、`look forward to doing`、`pay off`、`instead of doing` 等 | 0次；按用户要求后续不安排听力题 | 同位语从句作用不能说“修饰”；`question whether...` 与 `decision that...` 需按语义区分；普通 `not...until` 与强调句易混 | `The question whether Niki should join the English club is worth discussing.`; `The decision that Niki should spend more time reading English articles has not been made yet.`; `Niki found it important to take a short break.`; `Niki was excited to hear that she had made progress in English.`; `Unless Niki puts the new words into real sentences, she will forget them quickly.`; `It was not until Niki felt too tired to focus that she realized the importance of rest.`; `Niki is looking forward to joining the English reading club next term.`; `Niki made it easier for herself to remember new words by using them in short stories.`; `Her hard work had finally paid off.`; `Instead of memorizing word lists mechanically, Niki tried to use each new word in a sentence.` | 复查 `question whether...`、普通 `not...until` vs 强调句；补 `even though/even if` 1题快检；升级较长阅读或15空完形 |
+| 2026-07-13 至 2026-07-19 | 0篇 + 2篇词汇学习短文 + 1篇语法学习短文，细节题3题、同义替换2题、长难句主干4题，阅读依据正确 | 0题 | 4题：情绪线、动作线、主题线、原因线综合，全对 | 42题/项：`if/unless`、`not...until`、`because/since/as`、`so that`、时间状语主将从现复习通过；新学 `even though/even if` 与同位语从句 `that/whether`；首次要点正确40/42，纠错后100% | 13句：`Unless...until...`、`Since...`、`so that...`、`instead of...so that...`、`Although...`、`When...will...`、`Niki has the idea that...`、`We should accept the idea that...`、`The question whether...` 等；结构基本稳定，格式继续保温 | 0次；按用户要求后续不安排听力题 | 英文书面格式需继续保温；`whether...should do...` 易漏情态含义；长难句从句作用需说准解释抽象名词 | `When Niki meets new words tomorrow, she will put them into real sentences.`; `The idea that reading in real contexts can help students remember words better is useful.`; `Niki has the idea that reading English aloud every day can help her speak more naturally.`; `The belief that mistakes are a natural part of learning can help students speak more bravely.`; `We should accept the idea that mistakes can help us find what we need to improve.`; `The question whether Niki should take part in the English speech competition has not been decided yet.`; `The decision whether Niki should join the English club depends on her schedule.`; `mistakes are a natural part of learning`; `be worth discussing`; `speak more bravely` | 复查同位语从句 `that/whether` 易错点；`even though/even if` 只做1题快检；升级较长阅读或15空完形，要求至少2组同义替换或主辅线索说明 |
 | 2026-07-06 至 2026-07-12 | 0篇 + 阅读细节/同义替换保温1题，答案与原文依据正确 | 0题 | 0题 | 11题/项：`although/though`、形式宾语、`such...that` 到期复习通过；新学 `if/unless`、时间状语主将从现、`not...until`；首次知识点正确率90.9% | 4句：`Unless...`、`If...will...`、`If...so...that...`、`Niki didn't...until...`；第6题表达纠错后掌握，第11题搭配待复查 | 0次；按用户要求后续不安排听力题 | 英文短语易中式直译；完整句格式仍需提醒；阅读和完形仍需补长文本训练 | `Unless you review words in real contexts, you will forget them quickly.`; `If you practice English writing every day, you will write more naturally.`; `If Niki keeps practicing, she will become so confident that she can speak in front of the class.`; `use new words while speaking or writing`; `remember them for a longer time`; `Unless students put words into practice...`; `as soon as Niki finishes reading`; `not...until`; `check one's writing`; `speak in front of the class` | 复查 `if/unless`、时间状语主将从现、`not...until`；补较长阅读或15空完形；继续纠正中式直译 |
 | 2026-06-29 至 2026-07-05 | 0篇 + 阅读细节三栏保温1题，100% | 0题 | 0题 | 25题/项：形式主语第1次复习通过，形式宾语入门与第1次复习通过；状语从句 `although/though`、`so/such...that` 入门全对；答案正确率100% | 9句：`find it...`、`make it...`、`Although...`、`so/such...that` 学习与写作表达输出 | 0次；按用户要求后续不再安排听力题 | 形式主语/形式宾语理由说明容易省略；英文完整句格式偶尔漏句号或首字母大写；阅读和完形本周仍需补长文本训练 | `Although the task was hard, she finished it by herself.`; `Although I was nervous, I still gave the speech in front of the class.`; `The speech was so moving that everyone was deeply touched.`; `The English class was so interesting that Niki wanted to speak more English after class.`; `The test was so difficult that many students failed it.`; `It was such a useful book that I read it twice.`; `It was such useful advice that I changed my study plan.`; `so + adj./adv. + that...`; `such a + adj. + 单数名词 + that...`; `such + adj. + 不可数/复数名词 + that...` | 复查 `although/though` 与 `so/such...that`；要求形式主语/形式宾语理由完整；补15空完形或较长阅读；不再安排听力题 |
 | 2026-06-01 至 2026-06-07 | 0篇 + 阅读细节/同义替换微练6题 | 14题新练 + 2题复习，100% | 1题情绪线快检 + 16题人物变化线/线索训练，100% | 2题快检，100% | 读后续写动作+情绪2句 + 主题升华2句 + 阅读表达转写作1句 | 1次听前预测保温，3题全对 | 无明显知识性错题；英文标点和句末标点需提醒；阅读整篇尚未启动 | `courage`; `keep trying`; `face one's fear`; `make a real difference`; `trust myself`; `with my hands shaking slightly`; `moving forward even when we are afraid`; `public speaking`; `improve through practice`; `build confidence` | 升级10-15空完整完形短篇；启动整篇阅读；2026-06-29 起听力后续训练取消 |
@@ -519,6 +597,10 @@
 
 | 日期 | 时长 | 主要内容 | 详细记录 |
 |------|------|----------|----------|
+| 2026-07-25 | 约30分钟 | 到期复习：同位语从句 `that/whether`、同位语从句 vs 定语从句纠错后通过；非从句语法填空综合与周六专项7题全对；总计19题/项，首次要点正确17题，纠错后100%；易错点为 `question whether...`、普通 `not...until` vs 强调句 | [session-notes.md](../../sessions/niki/2026-07-25/session-notes.md) |
+| 2026-07-16 | 约30分钟 | 到期复习：`Because..., so...`、时间状语主将从现通过；新学同位语从句 `that/whether`，能区分同位语从句和定语从句；阅读依据题正确；总计14题/项，首次要点正确12题，纠错后100%，严格书面格式9/14；易错点为 `whether...should do...` 和从句解释抽象名词 | [session-notes.md](../../sessions/niki/2026-07-16/session-notes.md) |
+| 2026-07-14 | 约30分钟 | 到期复习：`Because..., so...` 改错和 `so that` 输出通过；新练完形情绪线/动作线/主题线/原因线4题全对；完成1篇词汇学习短文、阅读细节与同义替换、长难句主干和 `instead of...so that...`/`Although...` 写作迁移；总计10题/项，答案正确率100%，严格表达完整70% | [session-notes.md](../../sessions/niki/2026-07-14/session-notes.md) |
+| 2026-07-13 | 约30分钟 | 到期复习：`if/unless`、`not...until` 与 `check her writing` 综合输出通过；新学原因状语从句 `because/since/as`、目的状语从句 `so that`、`even though/even if`；完成1篇词汇学习短文、阅读同义替换和长难句主干；总计18题/项，答案正确率100%，输出格式提醒后通过 | [session-notes.md](../../sessions/niki/2026-07-13/session-notes.md) |
 | 2026-07-06 | 约30分钟 | 到期复习：`although/though`、形式宾语、`such...that` 综合题通过；新学条件状语从句 `if/unless`、时间状语主将从现迁移和 `not...until`；阅读依据保温通过；总计11题/项，首次知识点正确率90.9%，首次严格表达完整81.8%，第6题纠错后掌握，第11题搭配待复查 | [session-notes.md](../../sessions/niki/2026-07-06/session-notes.md) |
 | 2026-07-03 | 约30分钟 | 到期复习：形式主语/形式宾语综合题通过；新学状语从句 `although/though` 让步关系与 `so/such...that` 结果关系；总计13题/项，答案正确率100%，严格表达首次完整76.9%，补充后100% | [session-notes.md](../../sessions/niki/2026-07-03/session-notes.md) |
 | 2026-06-29 | 约30分钟 | 到期复习：`it` 形式主语第1次通过；新学 `it` 形式宾语，掌握 `find/think/make/feel it + adj. + to do...` 与 `make it + adj. + for sb. + to do...`；阅读三栏保温通过；总计12题/项，答案正确率100%，理由纠正后100%；用户要求后续不再安排听力题 | [session-notes.md](../../sessions/niki/2026-06-29/session-notes.md) |
@@ -549,6 +631,6 @@
 
 ## 🎯 高考倒计时
 
-**距离2027年高考还有约 339 天**
+**距离2027年高考还有约 317 天**
 
 （2027年高考预计时间：2027年6月7-8日）
